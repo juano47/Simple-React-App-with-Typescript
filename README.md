@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Live App
-https://tic-tac-toe-react-app.vercel.app/
+https://simple-react-app-with-typescript.vercel.app/
 
 ## Available Scripts
 
