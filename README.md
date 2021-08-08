@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live App
+https://tic-tac-toe-react-app.vercel.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
